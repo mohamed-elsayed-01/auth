@@ -1,7 +1,7 @@
 import logo from "../assets/images/logo.png"
 import loginPreview from "../assets/images/login-preview.jpg"
 import pattern from "../assets/images/preview-pattern.png"
-import star from "../assets/images/star.png"
+import star from "../assets/images/Star.png"
 import { useNavigate } from "react-router-dom"
 import arrowLeft from "../assets/images/arrow-left.png"
 import { useRef } from "react"
