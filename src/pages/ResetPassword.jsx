@@ -2,7 +2,7 @@ import { useNavigate, useParams } from "react-router-dom";
 import arrowLeft from "../assets/images/arrow-left.png"
 import resetPasswordPreview from "../assets/images/reset-password-preview.jpg"
 import pattern from "../assets/images/preview-pattern.png"
-import star from "../assets/images/star.png"
+import star from "../assets/images/Star.png"
 import logo from "../assets/images/logo.png"
 
 const ResetPassword = () => {
