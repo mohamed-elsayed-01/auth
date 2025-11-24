@@ -1,5 +1,5 @@
 import logo from "../assets/images/logo.png"
-import loginPreview from "../assets/images/login-preview.jpg"
+import loginPreview from "../assets/images/login-preview.webp"
 import pattern from "../assets/images/preview-pattern.png"
 import star from "../assets/images/Star.png"
 import { useNavigate } from "react-router-dom"

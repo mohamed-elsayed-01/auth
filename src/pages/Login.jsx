@@ -1,4 +1,4 @@
-import loginPreview from "../assets/images/login-preview.jpg"
+import loginPreview from "../assets/images/login-preview.webp"
 import star from "../assets/images/Star.png"
 import logo from "../assets/images/logo.png"
 import pattern from "../assets/images/preview-pattern.png"
